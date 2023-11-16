@@ -3,7 +3,6 @@ interface Report {
 }
 
 class CSVReport implements Report {
-  
   public generate(): void {
       // Generate CSV report
   }
