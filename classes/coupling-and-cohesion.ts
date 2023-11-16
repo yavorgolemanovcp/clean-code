@@ -1,5 +1,8 @@
 //Low Cohesion and High Coupling
 class UserManager {
+  userStats: any;
+  userProfile: any;
+  
   public createUser() {
       // Create a new user
   }
