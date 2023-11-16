@@ -4,8 +4,6 @@ function process(data: any): any {
 }
 
 function getUserData(userId: number): void {
-  this.savetoDb();
-  // ... actually saving user data, not getting it ...
 }
 
 export function handleDeleteProfile() {

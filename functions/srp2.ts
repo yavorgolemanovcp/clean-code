@@ -5,3 +5,6 @@ export function checkIfIsInArray(): void {
     this.updateArray();
   }
 }
+
+
+//parseJson

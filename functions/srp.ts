@@ -1,10 +1,3 @@
-export function formatDate(dateToFormat: string | Date, dateTime: boolean): string {
+export function formatDate(dateToFormat: string): string {
 
-
-  if (dateTime) {
-    //return datetime format
-  }
-
-
-  // return date format
 }

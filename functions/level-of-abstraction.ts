@@ -5,6 +5,18 @@
     sendWelcomeEmail(userData.email);
   }
 
+function validateUserData(userData) {
+
+}
+
+function saveUserToDatabase(userData) {
+
+}
+
+
+function sendWelcomeEmail(email) {
+
+}
 
 // Low level of abstraction:
  function isPalindrome(inputString) {
