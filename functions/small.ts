@@ -1,4 +1,5 @@
-function processOrder(order: Order): void {
+
+function processOrder(order: any): void {
   // Check inventory
   for (const item of order.items) {
       if (!inventoryService.hasItem(item)) {
